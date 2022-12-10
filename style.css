@@ -1,0 +1,17 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+
+#projects {
+    background-color: #e2edff;
+}
+
+section {
+    padding-top: 4rem;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175);
+}
